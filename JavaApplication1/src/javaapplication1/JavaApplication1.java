@@ -15,7 +15,10 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+       System.out.println("W pierwszym branchu; 2+3=");
         // TODO code application logic here
     }
-    
+    /*public static int policz(int a, int b){
+        return a+b;
+    }*/
 }
